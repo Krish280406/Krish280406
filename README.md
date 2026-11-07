@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- Header Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3E2723,50:795548,100:C8A27A&text=Krish%20Gupta&fontColor=F5E6D3&fontSize=55&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=58&descSize=17">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F5E6D3,50:D7BFA6,100:8D6E63&text=Krish%20Gupta&fontColor=3E2723&fontSize=55&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=58&descSize=17">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F5E6D3,50:D7BFA6,100:8D6E63&text=Krish%20Gupta&fontColor=3E2723&fontSize=55&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=58&descSize=17" width="100%" />
-</picture>
-
 # Hey there, I'm Krish Gupta 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8D6E63&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Aspiring+Software+Developer;Exploring+Cybersecurity+%26+Cryptography;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
@@ -30,8 +23,6 @@ Building projects, exploring systems, and learning how technology works beneath 
 <table>
 <tr>
 <td width="65%" valign="center">
-
-I'm **Krish Gupta**, a BTech Information Technology student at **Manipal University Jaipur**.
 
 I enjoy exploring computer science fundamentals and building practical projects around networking, security, and software development.
 
@@ -105,7 +96,7 @@ A Java-based project exploring network packet inspection, TLS traffic analysis, 
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,c&theme=light" />
 
 ### Frameworks & Tools
 
