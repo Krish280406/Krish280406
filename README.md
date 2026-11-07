@@ -110,23 +110,7 @@ A Java-based project exploring network packet inspection, TLS traffic analysis, 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krish280406&show_icons=true&hide_border=true&bg_color=F5E6D3&title_color=5D4037&icon_color=8D6E63&text_color=4E342E&ring_color=C8A27A" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish280406&layout=compact&hide_border=true&bg_color=F5E6D3&title_color=5D4037&text_color=4E342E" />
-
-<br/><br/>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=Krish280406&hide_border=true&background=F5E6D3&ring=C8A27A&fire=8D6E63&currStreakLabel=5D4037&sideLabels=795548&currStreakNum=4E342E&sideNums=4E342E&dates=8D6E63" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish280406&bg_color=F5E6D3&color=5D4037&line=8D6E63&point=C8A27A&area=true&area_color=D7BFA6&hide_border=true" width="100%" />
 
 </div>
 
